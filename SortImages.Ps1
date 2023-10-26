@@ -66,9 +66,3 @@ foreach($item in $itemsFromFolder){
 		}
 	}
 }
-
-
-
-
-
-
